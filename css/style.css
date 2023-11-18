@@ -13,11 +13,11 @@
   color: #2e2f42;
 }
 
-.navli {
+.nav-li {
   list-style: none;
 }
 
-.hlist {
+.h-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -26,11 +26,11 @@
 }
 
 /* this is for first section */
-.firstsec {
+.first-sec {
   background-color: #2e2f42;
 }
 
-.firstsechead {
+.firstsec-head {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
