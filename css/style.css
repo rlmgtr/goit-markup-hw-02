@@ -6,9 +6,21 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .inside-logo {
+  color: #2e2f42;
+}
+
+.hnav {
+  list-style: none;
+}
+
+.li-stu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
