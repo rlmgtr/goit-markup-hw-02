@@ -1,8 +1,6 @@
-header {
-  nav {
-    font-style: raleway;
-  }
-  li {
-    font-style: roboto;
-  }
+.hlogo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
 }
