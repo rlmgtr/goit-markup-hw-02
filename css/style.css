@@ -1,2 +1,8 @@
-style
-{text color; border-left: unset;}
+header {
+  nav {
+    font-style: raleway;
+  }
+  li {
+    font-style: roboto;
+  }
+}
