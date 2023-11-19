@@ -1,5 +1,5 @@
 /* this is for the header */
-.logo {
+.link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -18,7 +18,7 @@
   list-style: none;
 }
 
-.link {
+.link-menu {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
