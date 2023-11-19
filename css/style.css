@@ -26,10 +26,6 @@
   color: #2e2f42;
 }
 
-.link-menu:focus {
-  background-color: #404bbf;
-}
-
 /* this is for first section */
 .first-sec {
   background-color: #2e2f42;
@@ -56,6 +52,10 @@
   background: #404bbf;
 }
 
-firstsec-button {
+firstsec-button:focus {
   cursor: pointer;
+}
+
+firstsec-button:focus {
+  background-color: #404bbf;
 }
