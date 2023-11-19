@@ -16,6 +16,8 @@ body {
   text-decoration: none;
 }
 
+.link: hover, focus {color: #404bbf}
+
 .inside-logo {
   color: #2e2f42;
 }
@@ -30,6 +32,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.adress-style {
+  font-style: normal;
 }
 
 /* this is for first section */
@@ -92,11 +98,13 @@ firstsec-button:focus {
   letter-spacing: 0.02em;
 }
 /* this is for fourth section */
-.footer [
+.footer-section {
   background-color: #2e2f42;
+}
 
 
-]
+
+
 
 .footer-paragraph {
   line-height: 1.5;
