@@ -13,11 +13,11 @@
   color: #2e2f42;
 }
 
-.nav-li {
+.nav-list {
   list-style: none;
 }
 
-.h-list {
+.head-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -40,7 +40,7 @@
 
 .firstsec-button {
   background-color: #4d5ae5;
-  font-family: roboto, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
