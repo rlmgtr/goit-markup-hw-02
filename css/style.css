@@ -77,3 +77,7 @@ firstsec-button:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+/* this is for fourth section */
+.sec-four {
+  background-color: #f4f4fd;
+}
