@@ -13,16 +13,8 @@
   color: #2e2f42;
 }
 
-.menu-list {
+.nav-list {
   list-style: none;
-}
-
-.menu-list {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 
 /* this is for first section */
