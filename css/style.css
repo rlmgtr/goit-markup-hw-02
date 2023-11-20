@@ -1,5 +1,35 @@
 /* styles for header */
 
+.logo-style {
+  font-family: Raleway, sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+/* this is default LINK style - apply in all list tags*/
+
+.link-style {
+  text-decoration: none;
+}
+
+.inside-logo {
+  color: #2e2f42;
+}
+
+/* this is default LIST style - apply in all list tags*/
+.list-style {
+  list-style: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
 /* styles for first section */
 /* styles for second section */
 /* styles for thitd section */
