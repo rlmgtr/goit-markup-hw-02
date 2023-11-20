@@ -26,9 +26,10 @@ body {
   list-style: none;
 }
 
-a {
-  text-decoration: none;
-}
+.link, .link-menu {text-decoration: none;}
+
+
+
 
 .link-menu {
   font-weight: 500;
