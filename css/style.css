@@ -22,6 +22,10 @@
   text-decoration: none;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .inside-logo {
   color: #2e2f42;
 }
@@ -38,7 +42,7 @@
   letter-spacing: 0.02em;
   color: #434455;
   font-style: normal;
-
+}
 /* styles for first section */
 /* styles for second section */
 /* styles for thitd section */
