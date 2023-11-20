@@ -29,7 +29,15 @@
 /* this is default LIST style - apply in all list tags*/
 .list-style {
   list-style: none;
+  font-style: none;
+  text-decoration: none;
 }
+
+.address-style {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
 
 /* styles for first section */
 /* styles for second section */
