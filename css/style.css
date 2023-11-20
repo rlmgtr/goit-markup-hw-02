@@ -1,3 +1,9 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
 /* styles for header */
 
 .logo-style {
@@ -17,6 +23,11 @@
   text-decoration: none;
 }
 
+.link:hover,
+:focus {
+  color: #404bbf;
+}
+
 .inside-logo {
   color: #2e2f42;
 }
@@ -30,6 +41,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.address-style {
+  font-size: none;
 }
 
 /* this is default LIST style - apply in all list tags*/
