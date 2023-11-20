@@ -13,7 +13,7 @@
 
 /* this is default LINK style - apply in all list tags*/
 
-.link {
+.link-style {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -31,7 +31,7 @@
 }
 
 /* this is default LIST style - apply in all list tags*/
-.list-style {
+.list {
   list-style: none;
   font-style: none;
   text-decoration: none;
