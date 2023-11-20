@@ -21,10 +21,12 @@ body {
 
 .link {
   text-decoration: none;
+  color: #434455;
 }
 
 .link:hover,
-:focus {
+:focus,
+:active {
   color: #404bbf;
 }
 
@@ -45,6 +47,11 @@ body {
 
 .address-style {
   font-style: normal;
+  color: #434455;
+}
+
+.address-style: hover, focus {
+  color: #404bbf;
 }
 
 /* this is default LIST style - apply in all list tags*/
