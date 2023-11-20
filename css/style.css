@@ -44,7 +44,7 @@ body {
 }
 
 .address-style {
-  font-size: none;
+  font-style: normal;
 }
 
 /* this is default LIST style - apply in all list tags*/
