@@ -100,4 +100,14 @@ focus {
 }
 
 /* styles for thitd section */
+
+.section-three-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 /* styles for fourth section */
