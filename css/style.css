@@ -28,11 +28,6 @@ body {
   list-style: none;
 }
 
-
-
-
-
-
 .link-menu {
   font-weight: 500;
   font-size: 16px;
@@ -51,12 +46,11 @@ body {
 .adress-style {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  columns: #434455;
-
+  color: #434455;
   font-style: normal;
 }
 
-.address-style:hover {color:  #404bbf }
+.address-style:hover {color:#404bbf}
 
 /* this is for first section */
 .first-sec {
@@ -128,4 +122,3 @@ firstsec-button:focus {
   letter-spacing: 0.02em;
 }
 
-.address-style {font-style: normal;}
