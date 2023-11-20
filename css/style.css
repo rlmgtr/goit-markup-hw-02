@@ -121,10 +121,10 @@ focus {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #ffffff;
+  color: #2e2f42;
 }
 
-.fourth-section-employee-name {
+.fourthsectionemployee-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -132,9 +132,20 @@ focus {
   color: #2e2f42;
 }
 
-.fourth-section-employee-position {
+.fourthsectionemployee-position {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+/* styles for footer */
+.footer-style {
+  background-color: #2e2f42;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
