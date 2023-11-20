@@ -13,15 +13,6 @@
 
 /* this is default LINK style - apply in all list tags*/
 
-.link-style {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  text-decoration: none;
-}
-
 .link {
   text-decoration: none;
 }
@@ -30,19 +21,12 @@
   color: #2e2f42;
 }
 
-/* this is default LIST style - apply in all list tags*/
-.list {
+.list-style {
   list-style: none;
-  font-style: none;
-  text-decoration: none;
 }
 
-.address-style {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-  font-style: normal;
-}
+/* this is default LIST style - apply in all list tags*/
+
 /* styles for first section */
 /* styles for second section */
 /* styles for thitd section */
