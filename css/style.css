@@ -20,13 +20,14 @@ body {
 
 .inside-logo {
   color: #2e2f42;
+  text-decoration: none;
 }
 
 .list {
   list-style: none;
 }
 
-.link, .link-menu {text-decoration: none;}
+
 
 
 
