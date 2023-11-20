@@ -13,6 +13,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
  
 }
 
@@ -48,8 +49,14 @@ body {
 }
 
 .adress-style {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  columns: #434455;
+
   font-style: normal;
 }
+
+.address-style:hover {color:  #404bbf }
 
 /* this is for first section */
 .first-sec {
