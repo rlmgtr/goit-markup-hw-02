@@ -121,8 +121,6 @@ focus {
   background-color: #f4f4fd;
 }
 
-.bgcolor {background-color:#FFFFFF;}
-
 
 .fourth-section-header {
   font-size: 36px;
@@ -132,6 +130,10 @@ focus {
   text-transform: capitalize;
   color: #2e2f42;
   background-color: #FFFFFF;
+}
+
+.employee-bgcolor {
+  background-color:#FFFFFF;
 }
 
 .fourthsectionemployee-name {
