@@ -52,6 +52,10 @@ body {
   color: #2e2f42;
 }
 
+.link-style:hover,
+:focus,
+:active {
+  color: #404bbf;}
 
 
 
