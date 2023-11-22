@@ -28,8 +28,8 @@ body {
 .link {
   text-decoration: none;
 }
-.link :hover {hover: #404bbf}
-.link :focus {focus: #404bbf}
+.link .link-style :hover {color: #404bbf}
+.link .link-style :focus {color: #404bbf}
 
 .inside-logo {
   color: #2e2f42;
@@ -45,9 +45,6 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
-.link-style :hover { color: #404bbf}
-.link-style :focus {focus: #404bbf}
 
 .address-style {
   font-style: normal;
