@@ -58,18 +58,15 @@ body {
   color: #404bbf;}
 
 
-
 .address-style {
-  font-style: normal;
- 
-.contacts-style {
+font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
   
-.contacts-style :hover,:focus,:active {color: #404bbf;}
-}
+.address-style :hover,:focus,:active {color: #404bbf;}
+
 
 /* styles for first section */
 .first-section {
