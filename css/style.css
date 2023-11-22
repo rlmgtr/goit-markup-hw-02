@@ -195,11 +195,11 @@ letter-spacing: 0.02em;
 
 }
 
-.portfoliobutton-style :hover {
+.portfoliobutton-style button:hover {
   color:#FFFFFF;
   background-color: #404BBF;
 }
-.portfoliobutton-style :focus {
+.portfoliobutton-style button:focus {
   color:#FFFFFF;
   background-color: #404BBF;}
 
