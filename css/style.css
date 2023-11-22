@@ -29,8 +29,8 @@ body {
   text-decoration: none;
 }
 
-.link:hover,
-:focus,
+.link:hover
+:focus
 :active {
   color: #404bbf;
 }
@@ -55,8 +55,8 @@ body {
   color: #434455;
 }
 
-.address-style:hover,
-focus {
+.address-style:hover
+:focus {
   color: #404bbf;
 }
 
@@ -83,7 +83,8 @@ focus {
   color: #ffffff;
 }
 
-.first-section-button: :hover,:focus {
+.first-section-button: :hover
+:focus {
   color: #404bbf; }
 
 .first-section-button {
