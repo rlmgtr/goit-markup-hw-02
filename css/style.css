@@ -195,12 +195,9 @@ letter-spacing: 0.02em;
 
 }
 
-.portfoliobutton-style :hover {color:#FFFFFF}
-.portfoliobutton-style :focus, :active {#FFFFFF}
-.portfoliobutton-style :hover {background-color: #404BBF;}
-.portfoliobutton-style :focus, :active {background-color: #404BBF;}
-
-
+.portfoliobutton-style :hover, :focus {color: #FFFFFF;
+  background-color: #404BBF;
+}
 
 
 .portfoliobutton-style {cursor: pointer;}
