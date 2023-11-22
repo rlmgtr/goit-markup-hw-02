@@ -28,8 +28,8 @@ body {
 .link {
   text-decoration: none;
 }
-.link :hover {color: #404bbf}
-.link :focus {color: #404bbf}
+.link :hover, :focus {color: #404bbf}
+
 
 .inside-logo {
   color: #2e2f42;
@@ -37,6 +37,7 @@ body {
 
 .list {
   list-style: none;
+  color:#434455
 }
 
 .link-style {
