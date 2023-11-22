@@ -63,11 +63,8 @@ body {
 .address-style {
   font-style: normal;
   color: #434455;
-}
 
-.address-style:hover
-:focus {
-  color: #404bbf;
+.address-style :hover,:focus,:active {color: #404bbf;}
 }
 
 /* styles for first section */
