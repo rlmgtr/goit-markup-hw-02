@@ -67,7 +67,7 @@ letter-spacing: 0.02em;
 
 .contacts-color {color: #434455;}
   
-.address-style :hover,:focus,:active {color: #404bbf;}
+.contacts-color :hover,:focus,:active {color: #404bbf;}
 
 
 /* styles for first section */
