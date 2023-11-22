@@ -62,8 +62,10 @@ body {
 font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+
 }
+
+.contacts-color {color: #434455;}
   
 .address-style :hover,:focus,:active {color: #404bbf;}
 
