@@ -19,14 +19,13 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration: none;
+  
 }
 
 /* this is default LINK style - apply in all list tags*/
 
 .link {
   text-decoration: none;
-  color: #434455;
 }
 
 .link:hover,
@@ -161,6 +160,11 @@ focus {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+
+.footerinside-logo {
+  color:  #f4f4fd;
+}
+
 /* this is for Portfolio Styling */
 
 
