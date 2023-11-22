@@ -47,7 +47,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 
 .address-style {
@@ -78,15 +78,13 @@ focus {
   color: #434455;
   font-weight: 500;
   font-size: 16px;
-  height: 1.5;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
 }
 
-.first-section-button :hover,
-:focus {
-  color: #404bbf;
-}
+.first-section-button: :hover,:focus {
+  color: #404bbf; }
 
 .first-section-button {
   cursor: pointer;
@@ -179,7 +177,9 @@ focus {
   letter-spacing: 0.04em;
   color: #4d5ae5;
   background-color: #F4F4FD;
+
 }
+
 
 .portfolio-headers {
   font-weight: 500;
