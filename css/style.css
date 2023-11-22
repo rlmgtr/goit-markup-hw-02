@@ -192,6 +192,11 @@ body {
 
 }
 
+.portfoliobutton-style :hover, :focus {color: #FFFFFF;
+  background-color: #404BBF;
+}
+
+.portfoliobutton-style {cursor: pointer;}
 
 .portfolio-headers {
   font-weight: 500;
