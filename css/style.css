@@ -52,10 +52,10 @@ body {
   color: #2e2f42;
 }
 
-.link-style:hover,
-:focus,
-:active {
-  color: #404bbf;}
+.link-style:hover {color: #404bbf;}
+.link-style:focus {color: #404bbf;}
+.link-style:active {color: #404bbf;}
+  
 
 
 .address-style {
