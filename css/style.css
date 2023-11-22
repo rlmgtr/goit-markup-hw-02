@@ -208,6 +208,10 @@ color: #2e2f42;
   background-color: #404BBF;
 }
 
+.portfoliobutton-style:hover {
+  color: #FFFFFF;
+}
+
 .portfoliobutton-style {cursor: pointer;}
 
 
