@@ -21,13 +21,13 @@ body {
   color: #4d5ae5; 
 }
 
-.logo-link {text-decoration: none;}
+
 
 /* this is default LINK style - apply in all list tags*/
 
 .link {
   text-decoration: none;
-  color:#2e2f42;
+  color: #434455;
 }
 
 .link:hover,
